@@ -12,9 +12,9 @@ to check it out.
 
 <!-- <h3>:eye_speech_bubble: Live Site</h3> -->
 
-View it <a href="https://EsraaSaad298.com/"><strong>here</strong></a>
+View it <a href="https://EsraaSaad298.github.io/dev-portfolio/"><strong>here</strong></a>
 
-<a href="https://EsraaSaad298.com/"><img width="100%" src="./public/images/readme.jpg" alt="Portfolio Preview"/></a>
+<a href="https://EsraaSaad298.github.io/dev-portfolio/"><img width="100%" src="./public/images/readme.jpg" alt="Portfolio Preview"/></a>
 
 <br/>
 
