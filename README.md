@@ -12,9 +12,9 @@ to check it out.
 
 <h3>:eye_speech_bubble: Live Site</h3>
 
-View it <a href="https://EsraaSaad298.github.io/react-frontend-dev-portfolio/"><strong>here</strong></a>
+View it <a href="https://EsraaSaad298.github.io/"><strong>here</strong></a>
 
-<a href="https://EsraaSaad298.github.io/react-frontend-dev-portfolio/"><img width="100%" src="./public/images/ericnjuki.github.io.png" alt="eric njuki portfolio preview"/></a>
+<a href="https://EsraaSaad298.github.io/"><img width="100%" src="./public/images/ericnjuki.github.io.png" alt="eric njuki portfolio preview"/></a>
 
 <br/>
 
