@@ -14,7 +14,7 @@ to check it out.
 
 View it <a href="https://EsraaSaad298.com/"><strong>here</strong></a>
 
-<a href="https://EsraaSaad298.com/"><img width="100%" src="./public/images/preview.jpg" alt="Portfolio Preview"/></a>
+<a href="https://EsraaSaad298.com/"><img width="100%" src="./public/images/readme.jpg" alt="Portfolio Preview"/></a>
 
 <br/>
 
