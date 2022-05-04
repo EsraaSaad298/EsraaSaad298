@@ -3,18 +3,18 @@
 <pre>
 Repo for my portfolio project.
 In it, you will find information about me,
-my work, skills and developer story.
+my work, skills and project I have worked on.
 Click the link or image below
 to check it out.
 </pre>
 
 <br/>
 
-<h3>:eye_speech_bubble: Live Site</h3>
+<!-- <h3>:eye_speech_bubble: Live Site</h3> -->
 
-View it <a href="https://EsraaSaad298.github.io/"><strong>here</strong></a>
+View it <a href="https://EsraaSaad298.com/"><strong>here</strong></a>
 
-<a href="https://EsraaSaad298.github.io/"><img width="100%" src="./public/images/preview.jpg" alt="Portfolio Preview"/></a>
+<a href="https://EsraaSaad298.com/"><img width="100%" src="./public/images/preview.jpg" alt="Portfolio Preview"/></a>
 
 <br/>
 
