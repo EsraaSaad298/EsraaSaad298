@@ -14,7 +14,7 @@ to check it out.
 
 View it <a href="https://EsraaSaad298.github.io/"><strong>here</strong></a>
 
-<a href="https://EsraaSaad298.github.io/"><img width="100%" src="./public/images/ericnjuki.github.io.png" alt="eric njuki portfolio preview"/></a>
+<a href="https://EsraaSaad298.github.io/"><img width="100%" src="./public/images/preview.jpg" alt="Portfolio Preview"/></a>
 
 <br/>
 
