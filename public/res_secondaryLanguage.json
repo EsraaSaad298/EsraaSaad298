@@ -1,116 +1,148 @@
 {
-    "basic_info": {
-      "description_header": "Cześć",
-      "description": "👋 Jestem Davina Griss. Fikcyjna osoba na potrzeby demonstracji. Pracuję z najnowszymi frameworkami front-end takimi jak Angular, React i Vue. To co teraz widzisz to szablon portfolio od Dorota1997. Jeżeli podoba Ci się ten szablon portfolio nie zapomnij o ⭐, żeby było bardziej rozpoznawalne dla innych użytkowników. Dzięki 💜",
-      "section_name": {
-        "about": "O mnie",
-        "projects": "Projekty",
-        "skills": "Umiejętności",
-        "experience": "Doświadczenie"
-      }
+  "basic_info": {
+    "description_header": "Innovative software engineer, with a passion for producing cutting-edge and creative projects, bringing your vision live.",
+    "description": "👋 I'm Esraa Saad. I am a graduate of The German University In Cairo, Software Engineering Major. I have a year of experience in working as a front end developer, dealing with clients and publishing applications, as well as being an IT support assistant and a freelancer. I have completed my Bachelor's Degree in Software Engineering, with my bachelor project being Software Safety in Autonomous Vehicles. In my spare time, I occasionally write and blog, even publishing some of my writings online, but mostly I spend my free time gaming. I enjoy connecting with people and going on any adventure given the chance :)",
+    "section_name": {
+      "about": "About me",
+      "projects": "Projects",
+      "skills": "Skills",
+      "experience": "Experience"
+    }
+  },
+  "projects": [
+    {
+      "title": "Rescounts Partner App",
+      "startDate": "2021",
+      "description": "This is the most recent app that I have worked on, deployed on android and ios. It is used with restaurants in Canada as their managing system for orders, reservations and more. © Copyright by Rescounts 2021",
+      "images": [
+        "images/portfolio/rescounts/frame.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-react-plain",
+          "name": "React Native"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "TypeScript"
+        }
+      ]
     },
-    "projects": [
-      {
-        "title": "Animal Shelter",
-        "startDate": "2020",
-        "description": "Najbardziej rozbudowana aplikacja nad którą miałam okazję pracować. Poznałam dużo technologii a mój kod by sprawdzany przez super opiekuna. Aplikacja obsługuje wszystkie procesy adopcji i pozwala na przechowywanie wszelkiej dokumentacji związanej z adopcją zwierząt ze schroniska.",
-        "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
-        ],
-        "url": "",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      },
-      {
-        "title": "Photography",
-        "startDate": "2018",
-        "description": "Osobisty projekt na przedmiot ze studiów. Byłam odpowiedzilna za testowanie aplikacji, która optymalizuje zdjęcia z pomocą popularnych algorytmów używanych przed edytory grafiki takie jak Pixlr czy Adobe Photoshop. Otrzymałam 5-tkę za projekt :)",
-        "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-react-original",
-            "name": "React"
-          },
-          {
-            "class": "devicon-javascript-plain",
-            "name": "JavaScript"
-          }
-        ]
-      },
-      {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
-        "description": "Jedna z pierwszych aplikacji nad którymi pracowałam na stażu. Musiałam przygotować front-end dla aplikacji, która pokazuje modele 3D znanych budynków. To był także mój pierwszy projekt w frameworku Angular. Dużo się nauczyłam!",
-        "images": [
-          "images/portfolio/adventure/p1.jpg",
-          "images/portfolio/adventure/p2.jpg"
-        ],
-        "url": "https://github.com",
-        "technologies": [
-          {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
-          },
-          {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
-          }
-        ]
-      }
-    ],
-    "experience": [
-      {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - obecnie",
-        "mainTech": [
-          "Angular 8/9/10"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          "Angular Material"
-        ]
-      },
-      {
-        "company": "Serros Solutions",
-        "title": "Stażystka",
-        "years": "01.2018 - 09.2019",
-        "mainTech": [
-          "Angular 7/8"
-        ],
-        "technologies": [
-          "REST API",
-          "RxJS",
-          "Swagger",
-          "JavaScript",
-          "DHTMLX Gantt"
-        ]
-      }
-    ]
-  }
+    {
+      "title": "Left 4 Dead Unity Game",
+      "startDate": "2021",
+      "description": "Personal project for study subject. A small and modified version of the 'Left 4 Dead' PC game. One of the most exciting and different projects I have developed, and the most one I have enjoyed being a gamer and very familiar of the origin game.",
+      "images": [
+        "images/portfolio/game/frame.jpg",
+        "images/portfolio/game/frame1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-unity-original",
+          "name": "Unity"
+        },
+        {
+          "class": "devicon-csharp-plain",
+          "name": "C#"
+        }
+      ]
+    },
+    {
+      "title": "Software Safety System",
+      "startDate": "2020",
+      "description": "The aim of this project was to develop a software safety system for autonomous vehicles capable of detecting a problem when it occurs and taking an action to prevent any fatal outcome. Issues that were on detection alert: Vehicle's camera non functionality, weather extremeties and vehicle's other modules faulty data check",
+      "images": [
+        "images/portfolio/bachelor/frame.jpg",
+        "images/portfolio/bachelor/frame1.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-linux-plain",
+          "name": "Linux"
+        },
+        {
+          "class": "devicon-python-plain",
+          "name": "Python"
+        },
+        {
+          "class": "devicon-ubuntu-plain",
+          "name": "Machine Learning"
+        }
+      ]
+    },
+    {
+      "title": "Car Booking Website",
+      "startDate": "2019",
+      "description": "Personal project for study subject. My team and I have created a simulating car booking website named 'BookWorm' where services are offered to help the customer choose their perfect car. The services included logging in with an account, browsing cars directory, saving a car configuration to review later or purchase, booking a car and cancelling the booking at any time.",
+      "images": [
+        "images/portfolio/bookworm/frame.jpg"
+      ],
+      "technologies": [
+        {
+          "class": "devicon-firebase-plain",
+          "name": "Firebase"
+        },
+        {
+          "class": "devicon-google-original",
+          "name": "Google OAuth"
+        },
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        }
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "company": "Rescounts | Toronto, Canada",
+      "title": "Front-End Developer",
+      "icon": "fab fa-react experience-icon",
+      "mainTech": [
+        "React Native / TypeScript"
+      ],
+      "description" : "Responsible for creating UI interfaces, implementing functional unit and integration tests and collabration between back-end and front-end using react native framework and Javascript language. Experienced communication with clients to implement their requirements, and was able to succeed in creating them as well as the re-vamp of a published application. Submitted the developed product and is currently available in both Google Play and App Store, and is now widely used in Canada, with a very high client satisfaction and rating.",
+      "technologies": [
+        "REST API",
+        "TypeScript",
+        "React Native",
+        "Redux",
+        "Android/IOS development",
+        ".NET Core"
+      ]
+    },
+    {
+      "company": "The German University In Cairo",
+      "title": "Junior Teaching Assistant",
+      "icon": "fab fa-java experience-icon",
+      "mainTech" : [],
+      "years": "01.2019 - 01.2020",
+      "description": "Responsible for helping out undergraduates by teaching computer science material and assisting in their understanding of applying their therotical knowledge practically.",
+      "technologies": [
+        "Java",
+        "Data Structures",
+        "Algorithms",
+        "Python"
+      ]
+    },
+    {
+      "company": "Lirten Hub",
+      "title": "Intern",
+      "icon": "fab fa-node experience-icon",
+      "years": "06.2019 - 09.2019",
+      "mainTech": [
+        "Javascript"
+      ],
+      "description": "Trained with various technical and business team members in order to bring a multi-scale project live by conducting Researches and presented it to the specialized team, Working on back-end web development and designed databases and had scrum progress meetings and business team meetings to enhance effective communication and report progress.",
+      "technologies": [
+        "REST API",
+        "POSTMAN",
+        "PHP",
+        "JavaScript",
+        "Passport",
+        "POSTGRES",
+        "JQUERY"
+      ]
+    }
+  ]
+}
